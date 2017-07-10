@@ -1,0 +1,17 @@
+﻿<h1>
+  {{title}}
+</h1>
+<div>
+  <ul *ngFor="let value of apiValues">
+    <li>{{value}}</li>
+  </ul>
+</div>
+<div>
+  Select File: <input type="file" ng2FileSelect [uploader]="uploader" multiple />
+</div>
+<div>
+  <button type="button" class="btn btn-success btn-s" (click)="uploadFile()" [disabled]="!uploader.getNotUploadedItems().length">
+    Upload with ng-2 file uploader
+  </button>
+</div>
+<div>{{errorMessage}}</div>

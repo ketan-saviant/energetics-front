@@ -1,0 +1,9 @@
+D:\energetics\energetics\bin\Debug\netcoreapp1.1\energetics.deps.json
+D:\energetics\energetics\bin\Debug\netcoreapp1.1\energetics.runtimeconfig.json
+D:\energetics\energetics\bin\Debug\netcoreapp1.1\energetics.runtimeconfig.dev.json
+D:\energetics\energetics\bin\Debug\netcoreapp1.1\energetics.dll
+D:\energetics\energetics\bin\Debug\netcoreapp1.1\energetics.pdb
+D:\energetics\energetics\obj\Debug\netcoreapp1.1\energetics.csprojResolveAssemblyReference.cache
+D:\energetics\energetics\obj\Debug\netcoreapp1.1\energetics.AssemblyInfo.cs
+D:\energetics\energetics\obj\Debug\netcoreapp1.1\energetics.dll
+D:\energetics\energetics\obj\Debug\netcoreapp1.1\energetics.pdb
